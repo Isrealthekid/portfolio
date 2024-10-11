@@ -404,6 +404,14 @@ main {
   margin-bottom: 2px;
 }
 
+.contact-link{
+  color: var(--white-1);
+  font-size: var(--fs-4);
+  /* text-transform: uppercase; */
+  /* margin-bottom: 2px; */
+}
+
+
 .contact-info :is(.contacts-link, time, address){
   color: var(--white-2);
   font-size: var(--fs-7);
