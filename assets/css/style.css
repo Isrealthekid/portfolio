@@ -801,7 +801,7 @@ main {
 .timeline .title-wrapper{
   display: flex;
   align-items: center;
-  gap: 1;
+  gap: 15px;
   margin-bottom: 25px;
 }
 
@@ -814,6 +814,8 @@ main {
 .timeline-item {
   position: relative;
 }
+
+
 
 .timeline-item:not(:last-child) {
   margin-bottom: 20px;
